@@ -1,8 +1,8 @@
 # PROJECT ON C PROGRAMMING LANGUAGE
 ## This project was carried out in pairs betweeen
 
-- **Hammad Olamilekan** *and*
-- **Godwin Moses Chukwudi**
+- **kelly mugambi** *and*
+- **Kelly Nteere**
 
  **What is printf**
 
